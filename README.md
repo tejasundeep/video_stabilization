@@ -1,4 +1,4 @@
-# video_stabilization
+# Video Stabilization
 
 Getting Frame-to-Frame Transform Matrices:
 The video file 'video.wmv' is opened using cv2.VideoCapture.
